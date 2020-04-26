@@ -1,0 +1,17 @@
+{
+  "name": "rehype-parse-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "David Bleeker",
+  "license": "ISC",
+  "dependencies": {
+    "rehype": "^10.0.0",
+    "rehype-parse": "^6.0.2",
+    "vfile-reporter": "^6.0.1"
+  },
+  "description": "Demonstration of a bug in rehype-parse package."
+}
